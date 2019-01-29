@@ -10,3 +10,8 @@ WEB 240 Responsive Design Assignment
       - Downloaded files from https://github.com/iamshaunjp/psd-to-wp
       - Over wrote index.html files
       - Added 2 @media queries for screens with 400 and 700px breakpoints
+
+002.009 | Fluid Layouts | Assignment 003
+      - Labeled media queries to tablets and mobiles
+      - Changed the breakpoints to more standard breakpoints
+      
