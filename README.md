@@ -14,4 +14,6 @@ WEB 240 Responsive Design Assignment
 002.009 | Fluid Layouts | Assignment 003
       - Labeled media queries to tablets and mobiles
       - Changed the breakpoints to more standard breakpoints
-      
+
+002.010 | Tablet Styles | Assignment 004
+      - Changed the Tablet styles for the header nav, header nav ul, header nav ul li, # featured, and footer ul.
