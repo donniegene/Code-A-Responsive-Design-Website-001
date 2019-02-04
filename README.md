@@ -19,4 +19,4 @@ GitHub Pages link - https://donniegene.github.io/Code-A-Responsive-Design-Websit
 002.010 | Tablet Styles | Assignment 004
       - Changed the Tablet styles for the header nav, header nav ul, header nav ul li, # featured, and footer ul.
 
-002.012 | Mobile Styles
+002.012 | Mobile Styles | Assignment 005
