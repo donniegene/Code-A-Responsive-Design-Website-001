@@ -1,6 +1,6 @@
 # Code-A-Responsive-Design-Website-001
 WEB 240 Responsive Design Assignment
-GitHub Pages link - https://donniegene.github.io/Code-A-Responsive-Design-Website-001/
+GitHub Pages link - https://github.com/donniegene/Code-A-Responsive-Design-Website-001
 
 002.005 | The Viewport Tag | Assignment 001
       - Initiated the repository.
@@ -17,6 +17,16 @@ GitHub Pages link - https://donniegene.github.io/Code-A-Responsive-Design-Websit
       - Changed the breakpoints to more standard breakpoints
 
 002.010 | Tablet Styles | Assignment 004
-      - Changed the Tablet styles for the header nav, header nav ul, header nav ul li, # featured, and footer ul.
+      - Changed the Tablet styles for the;
+            header nav
+            header nav ul
+            header nav ul li
+            # featured li
+            footer ul
 
 002.012 | Mobile Styles | Assignment 005
+      - Changed the Mobiles styles for the;
+            # featured li
+            footer ul
+            #home-menu li
+            #main-banner img
