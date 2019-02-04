@@ -1,5 +1,6 @@
 # Code-A-Responsive-Design-Website-001
 WEB 240 Responsive Design Assignment
+GitHub Pages link - https://donniegene.github.io/Code-A-Responsive-Design-Website-001/
 
 002.005 | The Viewport Tag | Assignment 001
       - Initiated the repository.
@@ -17,3 +18,5 @@ WEB 240 Responsive Design Assignment
 
 002.010 | Tablet Styles | Assignment 004
       - Changed the Tablet styles for the header nav, header nav ul, header nav ul li, # featured, and footer ul.
+
+002.012 | Mobile Styles
