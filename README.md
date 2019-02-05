@@ -30,3 +30,6 @@ GitHub Pages link - https://github.com/donniegene/Code-A-Responsive-Design-Websi
             footer ul
             #home-menu li
             #main-banner img
+
+002.015 | Making a Mobile Drop-Down Menu | Assignment 006
+      
