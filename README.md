@@ -1,7 +1,7 @@
 # Code-A-Responsive-Design-Website-001
 WEB 240 Responsive Design Assignment
 
-GitHub Pages link - https://github.com/donniegene/Code-A-Responsive-Design-Website-001
+GitHub Pages link - https://donniegene.github.io/Code-A-Responsive-Design-Website-001/
 
 002.005 | The Viewport Tag | Assignment 001
       - Initiated the repository.
