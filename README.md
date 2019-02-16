@@ -33,3 +33,9 @@ GitHub Pages link - https://donniegene.github.io/Code-A-Responsive-Design-Websit
             #main-banner img
 
 002.015 | Making a Mobile Drop-Down Menu | Assignment 006
+      - Changed menu from banner menu to a drop-down Menu
+
+002.016 | Responsive Images & Polyfills | Assignment 007
+      - Added polyfill for Pictures feature and added code to make it compatiable with all browsers.
+            - https://cdn.rawgit.com/scottjehl/picturefill/3.0.2/dist/picturefill.js
+            - https://scottjehl.github.io/picturefill/#getting-started
