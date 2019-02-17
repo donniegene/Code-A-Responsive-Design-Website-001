@@ -39,3 +39,9 @@ GitHub Pages link - https://donniegene.github.io/Code-A-Responsive-Design-Websit
       - Added polyfill for Pictures feature and added code to make it compatiable with all browsers.
             - https://cdn.rawgit.com/scottjehl/picturefill/3.0.2/dist/picturefill.js
             - https://scottjehl.github.io/picturefill/#getting-started
+
+002.018 | Responsive Frameworks Introduction | Assignment 008
+      - Loaded code into <head> to pull bootstrap from cdn
+            - https://getbootstrap.com/
+      - Changed the code for the featured dishes from <section id="featured"> to <div class="container">
+            - Used bootstrap to control number of col used for md, sm, & xs
